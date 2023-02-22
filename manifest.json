@@ -1,6 +1,6 @@
 {
   "name": "RegenerativeNature",
-  "version_number": "2.0.0",
+  "version_number": "2.0.1",
   "website_url": "https://github.com/FelixReuthlinger/regenerative-nature",
   "description": "Let the trees grow and replenish mined ores",
   "dependencies": [
